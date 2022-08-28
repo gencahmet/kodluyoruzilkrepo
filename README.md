@@ -21,6 +21,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## proje resmi
-![kodluyoruzilkrepoprojesi](https://github.com/ErenYarar/kodluyoruzilkrepo/200/300)
+![kodluyoruzilkrepoprojesi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 
